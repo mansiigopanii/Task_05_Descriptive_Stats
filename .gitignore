@@ -1,0 +1,6 @@
+# Don't upload the raw CSV or VS Code temp files
+/data/
+*.csv
+__pycache__/
+.DS_Store
+*.pyc
