@@ -63,16 +63,6 @@ Evaluate how well a large language model (ChatGPT) can analyze structured data (
 - Win % is best predicted by a combination of FG%, FT%, and Assists.
 - High Turnovers correlate negatively with success.
 
----
 
-## 📬 Submission Info
-- GitHub repo link: [your repo URL here]
-- Submitted to: jrstrome@syr.edu
-- Dataset: Not pushed to repo (per guidelines)
 
----
-
-## 📅 Timeline
-- ✅ Basic analysis completed in July
-- ✅ Advanced analytics and GPT evaluation completed by August 15
 
