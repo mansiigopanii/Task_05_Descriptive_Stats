@@ -1,7 +1,7 @@
 # Research Task 05 – LLM Reasoning with NCAA Basketball Data
 
 ## 👩‍💻 Objective
-Evaluate how well a large language model (ChatGPT) can analyze structured data (CSV) and answer analytical questions — by comparing its answers with verified Python outputs. In this task, we focused on NCAA Women’s Basketball team stats from the 2023–2024 season.
+Evaluate how well a large language model (ChatGPT) can analyze structured data (CSV) and answer analytical questions by comparing its answers with verified Python outputs. In this task, we focused on NCAA Women’s Basketball team stats from the 2023–2024 season.
 
 ---
 
@@ -62,6 +62,7 @@ Evaluate how well a large language model (ChatGPT) can analyze structured data (
 - Engineered metrics and visual analysis enhanced insight depth.
 - Win % is best predicted by a combination of FG%, FT%, and Assists.
 - High Turnovers correlate negatively with success.
+
 
 
 
